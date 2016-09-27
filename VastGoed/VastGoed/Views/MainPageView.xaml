@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="VastGoed.Views.MainPageView"
+             Title="MainPage">
+  <!--<AbsoluteLayout HorizontalOptions="FillAndExpand"
+                    VerticalOptions="FillAndExpand">
+    <ActivityIndicator 
+                         IsRunning="{Binding IsBusy}"
+                         Color="Black" />
+    <ActivityIndicator Color="Black" IsRunning="true" />
+  </AbsoluteLayout>-->
+
+  <StackLayout>
+    <Label Text="{Binding Title}" VerticalOptions="Center" HorizontalOptions="Center" />
+    <Button Command="{Binding LoadModuleACommand}" Text="Load Module A" />
+  </StackLayout>
+
+</ContentPage>

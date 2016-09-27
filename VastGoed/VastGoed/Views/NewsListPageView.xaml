@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="VastGoed.Views.NewsListPageView"
+             xmlns:behaviors="clr-namespace:Xamarin.Behaviors;assembly=Xamarin.Behaviors"
+             xmlns:localBehavior="clr-namespace:VastGoed.Behaviors;assembly=VastGoed"
+             xmlns:localConverter="clr-namespace:VastGoed.Converters;assembly=VastGoed"
+             Title="{Binding PageTitle}">
+
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <localConverter:InverseBooleanConverter x:Key="not" />
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <AbsoluteLayout
+        VerticalOptions="FillAndExpand"
+        HorizontalOptions="FillAndExpand">
+    <AbsoluteLayout.BackgroundColor>
+      <OnPlatform x:TypeArguments="Color"
+                              Android="#fafafa"
+                              WinPhone="#fafafa"
+                              iOS="#fafafa">
+
+      </OnPlatform>
+    </AbsoluteLayout.BackgroundColor>
+
+
+    <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"
+                 AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All">
+      <ListView x:Name="listView" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" ItemsSource="{Binding FeedItems}"
+                 HasUnevenRows="true" SelectedItem="{Binding SelectedNewsItem}"
+                 IsVisible="{Binding IsBusy}"
+                 SeparatorVisibility="None">
+        <ListView.Behaviors>
+          <localBehavior:EventToCommandBehavior EventName="ItemTapped" Command="{Binding ItemTappedCommand}" />
+        </ListView.Behaviors>
+        <ListView.ItemTemplate>
+          <DataTemplate>
+            <ViewCell>
+              <ViewCell.View>
+                <Frame HasShadow="True"
+                       OutlineColor="Accent"
+                       Margin="5,5,5,5"
+                       Padding="10,5,10,5">
+                  <Frame.Content>
+                    <StackLayout Orientation="Vertical" HorizontalOptions="StartAndExpand">
+                      <Label Text="{Binding Title}" FontSize="16"/>
+                      <Label Text="{Binding Description}" FontSize="11" />
+                      <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                        <Label Text="{Binding PubDate}" FontSize="8" FontAttributes="Italic" />
+                        <Label Text="{Binding Category}" FontSize="8" HorizontalOptions ="EndAndExpand" />
+                      </StackLayout>
+                    </StackLayout>
+                  </Frame.Content>
+                </Frame>
+              </ViewCell.View>
+            </ViewCell>
+          </DataTemplate>
+        </ListView.ItemTemplate>
+      </ListView>
+    </StackLayout>
+
+    <!--Activity indicator-->
+    <StackLayout Padding="6"
+                 Orientation="Horizontal"
+                 BackgroundColor="#fafafa"
+                 AbsoluteLayout.LayoutBounds="0.5, 0.5, -1, -1"
+                 AbsoluteLayout.LayoutFlags="PositionProportional"
+                 IsVisible="{Binding IsBusy}">
+      <ActivityIndicator Color="Black"
+                         IsRunning="{Binding IsBusy}"
+                         IsVisible="{Binding IsBusy}"
+                         VerticalOptions="Center" WidthRequest="20" HeightRequest="20" />
+      <Label TextColor="Black" Text="Laden..." VerticalOptions="Center" />
+    </StackLayout>
+
+  </AbsoluteLayout>
+</ContentPage>

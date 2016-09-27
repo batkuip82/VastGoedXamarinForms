@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nieuws &#8211; VastgoedBerichten</title>
+	<atom:link href="http://vastgoedberichten.nl/category/nieuws/feed/" rel="self" type="application/rss+xml" />
+	<link>http://vastgoedberichten.nl</link>
+	<description>Vastgoed - Nieuws - Transactienieuws - Personalia - Vacatures - Agenda</description>
+	<lastBuildDate>Wed, 21 Sep 2016 09:10:41 +0000</lastBuildDate>
+	<language>nl</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">74518222</site>	<item>
+		<title>Gelderlandplein Amsterdam wint NRW Jaarprijs 2016</title>
+		<link>http://vastgoedberichten.nl/2016/09/20/gelderlandplein-amsterdam-wint-nrw-jaarprijs-2016/</link>
+		<pubDate>Tue, 20 Sep 2016 18:57:49 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11776</guid>
+		<description><![CDATA[Gelderlandplein Amsterdam van Kroonenberg Groep heeft de NRW Jaarprijs 2016 gewonnen. Een trotse Lesley Bamberger en Paul Bremmer hebben tijdens het drukbezochte NRW Jaarcongres de sculptuur in ontvangst genomen: “We hebben met ontzettend veel plezier en energie aan dit project gewerkt en zijn ongelooflijk trots op het resultaat en de waardering”, aldus Lesley Bamberger namens [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11776</post-id>	</item>
+		<item>
+		<title>Begroting Wonen en Rijksdienst: Stimulans betaalbaar aanbod vrije huursector</title>
+		<link>http://vastgoedberichten.nl/2016/09/20/begroting-wonen-en-rijksdienst-stimulans-betaalbaar-aanbod-vrije-huursector/</link>
+		<pubDate>Tue, 20 Sep 2016 18:21:48 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11772</guid>
+		<description><![CDATA[De woningmarkt laat een stevig herstel zien. Het aantal woningverkopen zit weer op het niveau van voor de crisis. Door de stijging van huizenprijzen zijn restschulden verdwenen of verminderd. Met de uitvoering van de maatregelen uit het regeer- en woonakkoord is de basis gelegd voor een robuuste en energiezuinige woningmarkt met minder schulden. Op de [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11772</post-id>	</item>
+		<item>
+		<title>CBS: Consumenten besteden opnieuw meer</title>
+		<link>http://vastgoedberichten.nl/2016/09/20/cbs-consumenten-besteden-opnieuw-meer-2/</link>
+		<pubDate>Tue, 20 Sep 2016 18:14:37 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11768</guid>
+		<description><![CDATA[Consumenten hebben in juli 2,2 procent meer uitgegeven dan in juli 2015, meldt CBS. Ze gaven vooral meer uit aan duurzame goederen zoals huishoudelijke apparaten en auto’s. Volgens de CBS Consumptieradar zijn de omstandigheden voor de consumptie in september gunstiger dan in juli. De consumptiecijfers zijn gecorrigeerd voor prijsveranderingen en veranderingen in de samenstelling van [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11768</post-id>	</item>
+		<item>
+		<title>Core belegger Bouwinvest heeft een goed eerste half jaar achter de rug</title>
+		<link>http://vastgoedberichten.nl/2016/09/20/core-belegger-bouwinvest-heeft-een-goed-eerste-half-jaar-achter-de-rug/</link>
+		<pubDate>Tue, 20 Sep 2016 06:22:32 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11755</guid>
+		<description><![CDATA[Investment Manager Bouwinvest REIM heeft een goed eerste half jaar achter de rug. De totale vastgoedportefeuille leverde een rendement op van 5,9% (excl. valutaresultaat). Het Bouwinvest Residential Fund leverde een zeer grote bijdrage van 9,9%. Het Bouwinvest Retail Fund boekte een rendement van 4,8% en het Bouwinvest Office Fund 3,5%. Het beheerd vermogen groeide naar [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11755</post-id>	</item>
+		<item>
+		<title>Kadaster registreert in augustus 2016 meer verkochte woningen</title>
+		<link>http://vastgoedberichten.nl/2016/09/20/kadaster-registreert-in-augustus-2016-meer-verkochte-woningen/</link>
+		<pubDate>Tue, 20 Sep 2016 06:18:51 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11753</guid>
+		<description><![CDATA[In augustus 2016 registreerde het Kadaster 19.975 verkochte woningen. Dit is een stijging van 25,9% ten opzichte van augustus 2015 (15.863). Vergeleken met de voorgaande maand, juli 2016, is er sprake van een stijging van 1,3%. Het Kadaster registreerde toen 19.723 verkochte woningen. Het Kadaster registreert de transacties van bestaande koopwoningen op het moment dat [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11753</post-id>	</item>
+		<item>
+		<title>Opening van Smiley: 364 betaalbare studio&#8217;s voor studenten op Zeeburgereiland</title>
+		<link>http://vastgoedberichten.nl/2016/09/19/opening-van-smiley-364-betaalbare-studios-voor-studenten-op-zeeburgereiland/</link>
+		<pubDate>Mon, 19 Sep 2016 13:30:50 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11741</guid>
+		<description><![CDATA[Alleen maar blije gezichten onder de 364 studenten die voor het volgend collegejaar de sleutel van hun studio in Smiley kregen. Smiley markeert vanaf de ringweg A10 op Zeeburgereiland de stadsentree van Amsterdam. De Smiley personifieert ook de lach van de studenten die op deze geweldige plek in Amsterdam betaalbaar kunnen wonen. In juni 2015 [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11741</post-id>	</item>
+		<item>
+		<title>Eerste paal voor Amstelcampus Leeuwenhoek</title>
+		<link>http://vastgoedberichten.nl/2016/09/19/eerste-paal-voor-amstelcampus-leeuwenhoek/</link>
+		<pubDate>Mon, 19 Sep 2016 09:07:07 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11734</guid>
+		<description><![CDATA[Met de eerste paal voor Amstelcampus Leeuwenhoek geeft De Key het startschot voor 69 nieuwe studentenwoningen aan de Boerhaavestraat in Amsterdam Oost. De Key bouwt 69 studentenwoningen aan de Eerste Boerhaavestraat in Amsterdam Oost. De eerste paal werd woensdag geslagen. Het project Amstelcampus Leeuwenhoek is onderdeel van Amstelcampus van de Hogeschool van Amsterdam aan de [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11734</post-id>	</item>
+		<item>
+		<title>KNB reageert op wetsvoorstel Omgevingswet</title>
+		<link>http://vastgoedberichten.nl/2016/09/19/knb-reageert-op-wetsvoorstel-omgevingswet/</link>
+		<pubDate>Mon, 19 Sep 2016 07:15:10 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11737</guid>
+		<description><![CDATA[In het wetsvoorstel tot wijziging van de Omgevingswet (Aanvullingswet grondeigendom) wordt onder andere in het onteigeningsproces een nieuwe rol toegedicht aan de notaris. Niet het vonnis van de burgerlijke rechter, maar een notariële akte vormt straks het sluitstuk van de onteigening. Het wetsvoorstel mist nog belangrijke waarborgen voor de uitvoering en de verantwoordelijkheid van de [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11737</post-id>	</item>
+		<item>
+		<title>Nieuw tijdelijk bestuur Nederlands Register Vastgoed Taxateurs</title>
+		<link>http://vastgoedberichten.nl/2016/09/17/nieuw-tijdelijk-bestuur-nederlands-register-vastgoed-taxateurs/</link>
+		<pubDate>Sat, 17 Sep 2016 20:33:27 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11726</guid>
+		<description><![CDATA[Op 16 september 2016 zijn de heren Ruud Leether en Hans van Vark afgetreden als bestuursleden van het Nederlands Register Vastgoed Taxateurs (NRVT). Met ingang van die datum is de heer Hamith Breedveld door de Centrale Raad aangewezen als enig tijdelijk bestuurder tot medio december 2016. De heer Breedveld heeft als tijdelijk bestuurder de opdracht [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11726</post-id>	</item>
+		<item>
+		<title>CBS: Koopkracht blijft in doorsnee stijgen</title>
+		<link>http://vastgoedberichten.nl/2016/09/17/cbs-koopkracht-blijft-in-doorsnee-stijgen/</link>
+		<pubDate>Sat, 17 Sep 2016 09:56:30 +0000</pubDate>
+		<dc:creator><![CDATA[Redactie]]></dc:creator>
+				<category><![CDATA[Nieuws]]></category>
+
+		<guid isPermaLink="false">http://vastgoedberichten.nl/?p=11718</guid>
+		<description><![CDATA[De koopkracht van de Nederlandse bevolking is in 2015 met 1,1 procent toegenomen. De stijging was minder groot dan de 1,8 procent in 2014. Het gaat hier om de doorsnee toename, tussen individuen kan de koopkrachtontwikkeling sterk verschillen. Werknemers gingen er het meest op vooruit. Anderen, zoals pensioenontvangers zagen hun koopkracht echter dalen. Dit meldt [...]]]></description>
+	<post-id xmlns="com-wordpress:feed-additions:1">11718</post-id>	</item>
+	</channel>
+</rss>

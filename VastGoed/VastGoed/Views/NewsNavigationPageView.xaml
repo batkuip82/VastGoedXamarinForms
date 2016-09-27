@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NavigationPage xmlns="http://xamarin.com/schemas/2014/forms"
+                xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                x:Class="VastGoed.Views.NewsNavigationPageView"
+                xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+                prism:ViewModelLocator.AutowireViewModel="True"
+                xmlns:localView="clr-namespace:VastGoed;assembly=VastGoed.Views">
+  <!--<x:Arguments>
+      <localView:NewsListPageView />
+  </x:Arguments>-->
+  <!--<StackLayout>
+    <Label Text="{Binding Title}" VerticalOptions="Center" HorizontalOptions="Center" />
+    <Button Command="{Binding NavigateCommand}" Text="Navigate" />
+  </StackLayout>-->
+</NavigationPage>

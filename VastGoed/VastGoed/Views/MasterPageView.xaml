@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="VastGoed.Views.MasterPageView"
+             xmlns:local="clr-namespace:VastGoed.Effects;assembly=VastGoed">
+  <MasterDetailPage.Master>
+    <ContentPage Title="Default" Padding="5, 20, 5, 5">
+      <StackLayout Orientation="Vertical">
+        <StackLayout>
+          <Button Text="Home" Command="{Binding NavigateCommand}" CommandParameter="NewsNavigationPageView/NewsListPageView?id=0"
+                  BorderColor="Transparent" BackgroundColor="Transparent" BorderWidth="0" BorderRadius="0">
+          </Button>
+        </StackLayout>
+        <StackLayout>
+          <Button Text="Nieuws" Command="{Binding NavigateCommand}" CommandParameter="NewsNavigationPageView/NewsListPageView?id=1"
+                  BorderColor="Transparent" BackgroundColor="Transparent"/>
+        </StackLayout>
+        <StackLayout>
+          <Button Text="Transacties" Command="{Binding NavigateCommand}" CommandParameter="NewsNavigationPageView/NewsListPageView?id=2"
+                  BorderColor="Transparent" BackgroundColor="Transparent"/>
+        </StackLayout>
+        <StackLayout>
+          <Button Text="Personalia" Command="{Binding NavigateCommand}" CommandParameter="NewsNavigationPageView/NewsListPageView?id=3"
+                  BackgroundColor="#ffffff"/>
+        </StackLayout>
+        <StackLayout>
+          <Button Text="Personalia" Command="{Binding NavigateCommand}" CommandParameter="NewsNavigationPageView/ListViewAnimationPage?id=4"
+                  BackgroundColor="#ffffff"/>
+        </StackLayout>
+      </StackLayout>
+    </ContentPage>
+  </MasterDetailPage.Master>
+</MasterDetailPage>

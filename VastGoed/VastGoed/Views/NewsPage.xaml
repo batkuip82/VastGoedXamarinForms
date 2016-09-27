@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+             xmlns:localConverter="clr-namespace:VastGoed.Converters;assembly=VastGoed"
+             prism:ViewModelLocator.AutowireViewModel="True"
+             x:Class="VastGoed.Views.NewsPage"
+             Title="{Binding Category}">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <localConverter:InverseBooleanConverter x:Key="not" />
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Text="Share" Order="Secondary" Command="{Binding Share}" Name="Action" />
+  </ContentPage.ToolbarItems>
+  <ContentPage.Content>
+    <AbsoluteLayout
+          VerticalOptions="FillAndExpand"
+          HorizontalOptions="FillAndExpand">
+      <AbsoluteLayout.BackgroundColor>
+        <OnPlatform x:TypeArguments="Color"
+                                Android="#fafafa"
+                                WinPhone="#fafafa"
+                                iOS="#fafafa">
+
+        </OnPlatform>
+      </AbsoluteLayout.BackgroundColor>
+
+      <StackLayout IsVisible="{Binding IsBusy, Converter={StaticResource not}"
+                   VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All">
+        <Label Text="{Binding Title}" FontSize="20"></Label>
+        <WebView VerticalOptions="FillAndExpand">
+          <WebView.Source>
+            <HtmlWebViewSource Html="{Binding ArticleHtml}"/>
+          </WebView.Source>
+        </WebView>
+      </StackLayout>
+
+      <!--Activity indicator-->
+      <StackLayout Padding="6"
+                   Orientation="Horizontal"
+                   BackgroundColor="#fafafa"
+                   AbsoluteLayout.LayoutBounds="0.5, 0.5, -1, -1"
+                   AbsoluteLayout.LayoutFlags="PositionProportional"
+                   IsVisible="{Binding IsBusy}">
+        <ActivityIndicator Color="Black"
+                           IsRunning="{Binding IsBusy}"
+                           IsVisible="{Binding IsBusy}"
+                           VerticalOptions="Center" WidthRequest="20" HeightRequest="20" />
+        <Label TextColor="Black" Text="Laden..." VerticalOptions="Center" />
+      </StackLayout>
+    </AbsoluteLayout>
+  </ContentPage.Content>
+</ContentPage>

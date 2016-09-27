@@ -1,0 +1,708 @@
+﻿<!DOCTYPE html>
+
+<!--[if IE 8]> <html class="ie ie8" lang="nl"> <![endif]-->
+<!--[if IE 9]> <html class="ie ie9" lang="nl"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="nl"> <!--<![endif]-->
+
+<head>
+
+
+<meta charset="UTF-8" />
+<title>  Gelderlandplein Amsterdam wint NRW Jaarprijs 2016</title>
+
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="pingback" href="http://vastgoedberichten.nl/xmlrpc.php" />
+	
+
+<link rel="apple-touch-icon-precomposed" href="http://vastgoedberichten.nl/wp-content/uploads/2015/09/Logo-VastgoedBerichten.png" />
+	
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="VastgoedBerichten &raquo; Feed" href="http://vastgoedberichten.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VastgoedBerichten &raquo; Reactiesfeed" href="http://vastgoedberichten.nl/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="VastgoedBerichten &raquo; iCal Feed" href="http://vastgoedberichten.nl/agenda/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/vastgoedberichten.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cn-public-css'  href='http://vastgoedberichten.nl/wp-content/plugins/connections/assets/css/cn-user.min.css?ver=8.5.26' type='text/css' media='all' />
+<link rel='stylesheet' id='cn-chosen-css'  href='//vastgoedberichten.nl/wp-content/plugins/connections/vendor/chosen/chosen.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://vastgoedberichten.nl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-consent-style-css'  href='http://vastgoedberichten.nl/wp-content/plugins/uk-cookie-consent/assets/css/style.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto+Slab' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-core-css'  href='http://vastgoedberichten.nl/wp-content/themes/smart-mag/style.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-responsive-css'  href='http://vastgoedberichten.nl/wp-content/themes/smart-mag/css/responsive.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty-photo-css'  href='http://vastgoedberichten.nl/wp-content/themes/smart-mag/css/prettyPhoto.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='smartmag-font-awesome-css'  href='http://vastgoedberichten.nl/wp-content/themes/smart-mag/css/fontawesome/css/font-awesome.min.css?ver=2.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css-css'  href='http://vastgoedberichten.nl/?anchor_obj=2&#038;bunyad_custom_css=1&#038;ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://vastgoedberichten.nl/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.2 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-64349279-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('require', 'linkid', 'linkid.js');
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tribe_events_linked_posts = {"post_types":{"tribe_venue":"venue","tribe_organizer":"organizer"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/themes/smart-mag/js/jquery.prettyPhoto.js?ver=4.6.1'></script>
+<link rel='https://api.w.org/' href='http://vastgoedberichten.nl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://vastgoedberichten.nl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://vastgoedberichten.nl/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='FGH Bank verkoopt RNHB Hypotheekbank aan Carval Investors en Vesting Finance' href='http://vastgoedberichten.nl/2016/09/20/fgh-bank-verkoopt-rnhb-hypotheekbank-aan-carval-investors-en-vesting-finance/' />
+<meta name="generator" content="WordPress 4.6.1" />
+<link rel="canonical" href="http://vastgoedberichten.nl/2016/09/20/gelderlandplein-amsterdam-wint-nrw-jaarprijs-2016/" />
+<link rel='shortlink' href='http://wp.me/p52FAO-33W' />
+<link rel="alternate" type="application/json+oembed" href="http://vastgoedberichten.nl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvastgoedberichten.nl%2F2016%2F09%2F20%2Fgelderlandplein-amsterdam-wint-nrw-jaarprijs-2016%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://vastgoedberichten.nl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fvastgoedberichten.nl%2F2016%2F09%2F20%2Fgelderlandplein-amsterdam-wint-nrw-jaarprijs-2016%2F&#038;format=xml" />
+<style id="ctcc-css" type="text/css" media="screen">
+			#catapult-cookie-bar {
+				box-sizing: border-box;
+				max-height: 0;
+				opacity: 0;
+				z-index: 99999;
+				overflow: hidden;
+				color: #dddddd;
+				position: fixed;
+				left: 0;
+				top: 0;
+				width: 100%;
+				background-color: #464646;
+			}
+			#catapult-cookie-bar a {
+				color: #dddddd;
+			}
+			#catapult-cookie-bar .x_close span {
+				background-color: ;
+			}
+			button#catapultCookie {
+				background:#5e8391;
+				color: ;
+				
+			}
+			#catapult-cookie-bar h3 {
+				color: #dddddd;
+			}
+			.has-cookie-bar #catapult-cookie-bar {
+				opacity: 1;
+				max-height: 999px;
+				min-height: 30px;
+			}</style>
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Gelderlandplein Amsterdam wint NRW Jaarprijs 2016" />
+<meta property="og:url" content="http://vastgoedberichten.nl/2016/09/20/gelderlandplein-amsterdam-wint-nrw-jaarprijs-2016/" />
+<meta property="og:description" content="Gelderlandplein Amsterdam van Kroonenberg Groep heeft de NRW Jaarprijs 2016 gewonnen. Een trotse Lesley Bamberger en Paul Bremmer hebben tijdens het drukbezochte NRW Jaarcongres de sculptuur in ont…" />
+<meta property="article:published_time" content="2016-09-20T18:57:49+00:00" />
+<meta property="article:modified_time" content="2016-09-20T18:57:49+00:00" />
+<meta property="og:site_name" content="VastgoedBerichten" />
+<meta property="og:image" content="http://i1.wp.com/vastgoedberichten.nl/wp-content/uploads/2016/09/Gelderlandplein-Amsterdam-wint-NRW-Jaarprijs-2016.png?fit=563%2C378" />
+<meta property="og:image:width" content="563" />
+<meta property="og:image:height" content="378" />
+<meta property="og:locale" content="nl_NL" />
+<meta name="twitter:image" content="http://i1.wp.com/vastgoedberichten.nl/wp-content/uploads/2016/09/Gelderlandplein-Amsterdam-wint-NRW-Jaarprijs-2016.png?fit=563%2C378&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@VastgoedBericht" />
+	
+<!--[if lt IE 9]>
+<script src="http://vastgoedberichten.nl/wp-content/themes/smart-mag/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+</head>
+
+<body class="single single-post postid-11776 single-format-image page-builder right-sidebar boxed">
+
+<div class="main-wrap">
+
+	
+	
+	<div class="top-bar">
+
+		<div class="wrap">
+			<section class="top-bar-content">
+			
+								<div class="trending-ticker">
+					<span class="heading">Trending</span>
+
+					<ul>
+												
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/gelderlandplein-amsterdam-wint-nrw-jaarprijs-2016/" title="Gelderlandplein Amsterdam wint NRW Jaarprijs 2016">Gelderlandplein Amsterdam wint NRW Jaarprijs 2016</a></li>
+						
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/fgh-bank-verkoopt-rnhb-hypotheekbank-aan-carval-investors-en-vesting-finance/" title="FGH Bank verkoopt RNHB Hypotheekbank aan Carval Investors en Vesting Finance">FGH Bank verkoopt RNHB Hypotheekbank aan Carval Investors en Vesting Finance</a></li>
+						
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/begroting-wonen-en-rijksdienst-stimulans-betaalbaar-aanbod-vrije-huursector/" title="Begroting Wonen en Rijksdienst: Stimulans betaalbaar aanbod vrije huursector">Begroting Wonen en Rijksdienst: Stimulans betaalbaar aanbod vrije huursector</a></li>
+						
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/cbs-consumenten-besteden-opnieuw-meer-2/" title="CBS: Consumenten besteden opnieuw meer">CBS: Consumenten besteden opnieuw meer</a></li>
+						
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/robert-de-ridder-van-clavis-naar-lescaut-woonservice/" title="Robert de Ridder van Clavis naar l’escaut woonservice">Robert de Ridder van Clavis naar l’escaut woonservice</a></li>
+						
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/roc-top-huurt-4-065-m%c2%b2-in-gebouw-lumen-in-amsterdam/" title="ROC TOP huurt 4.065 m² in gebouw Lumen in Amsterdam">ROC TOP huurt 4.065 m² in gebouw Lumen in Amsterdam</a></li>
+						
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/stichting-spoorwegpensioenfonds-verkoopt-distributiecentrum-in-moerdijk/" title="Stichting Spoorwegpensioenfonds verkoopt distributiecentrum in Moerdijk">Stichting Spoorwegpensioenfonds verkoopt distributiecentrum in Moerdijk</a></li>
+						
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/sostrene-grene-opent-vestiging-in-nijmegen/" title="Søstrene Grene opent vestiging in Nijmegen">Søstrene Grene opent vestiging in Nijmegen</a></li>
+						
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/core-belegger-bouwinvest-heeft-een-goed-eerste-half-jaar-achter-de-rug/" title="Core belegger Bouwinvest heeft een goed eerste half jaar achter de rug">Core belegger Bouwinvest heeft een goed eerste half jaar achter de rug</a></li>
+						
+												
+							<li><a href="http://vastgoedberichten.nl/2016/09/20/kadaster-registreert-in-augustus-2016-meer-verkochte-woningen/" title="Kadaster registreert in augustus 2016 meer verkochte woningen">Kadaster registreert in augustus 2016 meer verkochte woningen</a></li>
+						
+												
+											</ul>
+				</div>
+				
+				
+				<div class="search">
+					<form role="search" action="http://vastgoedberichten.nl/" method="get">
+						<input type="text" name="s" class="query" value="" placeholder="Search..." />
+						<button class="search-button" type="submit"><i class="fa fa-search"></i></button>
+					</form>
+				</div> <!-- .search -->
+							<div class="textwidget"><ul class="social-icons">
+	<li><a href="/?feed=rss2" class="icon fa fa-rss" title="RSS"><span class="visuallyhidden">RSS</span></a></li>
+	<li><a href="https://www.facebook.com/pages/VastgoedBerichten/299909433550451" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://www.facebook.com/pages/VastgoedBerichten/299909433550451', 'Facebook');" class="icon fa fa-facebook" title="Facebook"><span class="visuallyhidden">Facebook</span></a></li>
+	<li><a href="https://twitter.com/VastgoedBericht" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://twitter.com/VastgoedBericht', 'Twitter');" class="icon fa fa-twitter" title="Twitter"><span class="visuallyhidden">Twitter</span></a></li>
+<li><a href="https://plus.google.com/113076848617692795587" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://plus.google.com/113076848617692795587', 'Google+');" class="icon fa fa-google-plus" title="Google+"><span class="visuallyhidden">Google+</span></a></li>
+</ul></div>
+						
+			</section>
+		</div>
+		
+	</div>
+	
+	
+	<div id="main-head" class="main-head">
+		
+		<div class="wrap">
+		
+			<header>
+				<div class="title">
+				
+				<a href="http://vastgoedberichten.nl/" title="VastgoedBerichten" rel="home">
+									
+					<img src="http://vastgoedberichten.nl/wp-content/uploads/2015/10/VastgoedBerichten.png" class="logo-image" alt="VastgoedBerichten" data-at2x="http://vastgoedberichten.nl/wp-content/uploads/2015/09/vasgoedber.-logo.png" />
+						 
+								</a>
+				
+				</div>
+				
+				<div class="right">
+					
+				
+					
+			<div class="ads-widget">
+			
+				<a href="http://imagebuilding.com/" target="blank"><img src="http://vastgoedberichten.nl/wp-content/uploads/2015/10/12073184_915195508559002_521396744_n.gif"></a>			
+			</div>
+		
+				
+						</div>
+			</header>
+			
+						
+			<nav class="navigation cf" data-sticky-nav="1">
+			
+				<div class="mobile" data-type="off-canvas" data-search="1">
+					<a href="#" class="selected">
+						<span class="text">Navigate</span><span class="current"></span> <i class="hamburger fa fa-bars"></i>
+					</a>
+				</div>
+				
+				<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-948"><a href="http://vastgoedberichten.nl/">Home</a></li>
+<li id="menu-item-949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-949"><a href="http://vastgoedberichten.nl/nieuws/">Nieuws</a>
+<ul class="sub-menu">
+	<li id="menu-item-6179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6179"><a href="http://vastgoedberichten.nl/category/nieuws/">Nieuwsberichten</a></li>
+	<li id="menu-item-950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-950"><a href="http://vastgoedberichten.nl/transactienieuws/">Transactienieuws</a></li>
+	<li id="menu-item-951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-951"><a href="http://vastgoedberichten.nl/personalia/">Personalia</a></li>
+</ul>
+</li>
+<li id="menu-item-953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-953"><a href="http://vastgoedberichten.nl/agenda/">Agenda</a></li>
+<li id="menu-item-5695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5695"><a href="http://vastgoedberichten.nl/vacatures/">Vacatures</a></li>
+<li id="menu-item-5696" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5696"><a href="http://vastgoedberichten.nl/adressenboek/">Adressenboek</a></li>
+<li id="menu-item-959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-959"><a href="http://vastgoedberichten.nl/heeft-u-nieuws/">Heeft u nieuws?</a></li>
+</ul></div>			</nav>
+			
+		</div>
+		
+	</div>
+	
+	<div class="wrap">
+		<div class="breadcrumbs"><span class="location">You are at:</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://vastgoedberichten.nl/"><span itemprop="title">Home</span></a></span><span class="delim">&raquo;</span><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url"  href="http://vastgoedberichten.nl/category/nieuws/"><span itemprop="title">Nieuws</span></a></span><span class="delim">&raquo;</span><span class="current">Gelderlandplein Amsterdam wint NRW Jaarprijs 2016</span></div>	</div>
+
+
+<div class="main wrap cf">
+	<div class="row">
+		<div class="col-8 main-content">
+		
+			
+				
+<article id="post-11776" class="post-11776 post type-post status-publish format-image has-post-thumbnail category-nieuws post_format-post-format-image" itemscope itemtype="http://schema.org/Article">
+	
+	<header class="post-header cf">
+
+			<div class="featured">
+						
+				<a href="http://i1.wp.com/vastgoedberichten.nl/wp-content/uploads/2016/09/Gelderlandplein-Amsterdam-wint-NRW-Jaarprijs-2016.png?fit=563%2C378" title="Gelderlandplein Amsterdam wint NRW Jaarprijs 2016" itemprop="image">
+				
+								
+										
+						<img width="563" height="336" src="http://i1.wp.com/vastgoedberichten.nl/wp-content/uploads/2016/09/Gelderlandplein-Amsterdam-wint-NRW-Jaarprijs-2016.png?resize=563%2C336" class="attachment-main-slider size-main-slider wp-post-image" alt="Gelderlandplein Amsterdam wint NRW Jaarprijs 2016" title="Gelderlandplein Amsterdam wint NRW Jaarprijs 2016" />					
+										
+								
+				</a>
+								
+								
+					</div>
+	
+		
+		<h1 class="post-title" itemprop="name">
+		Gelderlandplein Amsterdam wint NRW Jaarprijs 2016		</h1>
+		
+		<a href="http://vastgoedberichten.nl/2016/09/20/gelderlandplein-amsterdam-wint-nrw-jaarprijs-2016/#respond" class="comments"><i class="fa fa-comments-o"></i> 0</a>
+		
+	</header><!-- .post-header -->
+	
+	<div class="post-meta">
+		<span class="posted-by">By 
+			<span class="reviewer" itemprop="author"><a href="http://vastgoedberichten.nl/author/admin/" title="Berichten van Redactie" rel="author">Redactie</a></span>
+		</span>
+		 
+		<span class="posted-on">on			<span class="dtreviewed">
+				<time class="value-datetime" datetime="2016-09-20T18:57:49+00:00" itemprop="datePublished">september 20, 2016</time>
+			</span>
+		</span>
+		
+		<span class="cats"><a href="http://vastgoedberichten.nl/category/nieuws/" rel="category tag">Nieuws</a></span>
+			
+	</div>
+	
+
+	<div class="post-container cf">
+	
+		<div class="post-content-right">
+			<div class="post-content description " itemprop="articleBody">
+			
+				
+								
+				<p>Gelderlandplein Amsterdam van Kroonenberg Groep heeft de NRW Jaarprijs 2016 gewonnen. Een trotse Lesley Bamberger en Paul Bremmer hebben tijdens het drukbezochte NRW Jaarcongres de sculptuur in ontvangst genomen: “We hebben met ontzettend veel plezier en energie aan dit project gewerkt en zijn ongelooflijk trots op het resultaat en de waardering”, aldus Lesley Bamberger namens Kroonenberg Groep.</p>
+<p>De NRW jaarprijs is een prestigieuze prijs die al sinds 1989 wordt uitgereikt aan de beste retailontwikkeling van Nederland. Het vernieuwende karakter en de commerciële aantrekkelijkheid van het project voor consumenten en ondernemers spelen daarbij een belangrijke rol. De winnende inzending heeft een aantoonbare voorbeeldfunctie voor de sector.</p>
+<p>De andere genomineerde projecten waren:<br />
+&#8211; De Passage in Den Haag, ingediend door Multi en AM.<br />
+&#8211; HEUVEL in Eindhoven, ingediend door CBRE, CBRE GI en Syntrus Achmea<br />
+&#8211; Hoogzandveld in Nieuwegein, ingediend door Ovidius, Albert Heijn Hoogzandveld en ONB Architecten.</p>
+<p><a href="https://www.youtube.com/watch?v=jtAtxTV-WII&amp;feature=youtu.be" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.youtube.com/watch?v=jtAtxTV-WII&amp;feature=youtu.be', 'Bekijk hier een video van alle genomineerden voor de NRW Jaarprijs 2016.');" target="_blank">Bekijk hier een video van alle genomineerden voor de NRW Jaarprijs 2016.</a></p>
+<p>Jurybeoordeling<br />
+Jos Sentel, voorzitter van de vakjury: “Met de herontwikkeling en uitbreiding van het Gelderlandplein heeft Kroonenberg Groep een duidelijk statement gemaakt met een simpel recept: sta voor je keuzes! De Jury heeft veel waardering voor het compromisloze resultaat. Er zijn zeer duidelijke – en soms zeer gedurfde – keuzes gemaakt en er is vastgehouden aan glasheldere principes. Het resultaat is een uniek multifunctioneel project op het fundament van een bijna 50-jarige winkellocatie.”</p>
+<p><a href="http://nrw.nl/wat-doen/nrw-jaarprijzen/nrw-jaarprijs/" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://nrw.nl/wat-doen/nrw-jaarprijzen/nrw-jaarprijs/', 'Lees hier het volledige juryrapport.');" target="_blank">Lees hier het volledige juryrapport.</a></p>
+<p>&nbsp;</p>
+<p><a href="http://nrw.nl/wp-content/uploads/2015/02/Gelderlandplein-Amsterdam-wint-NRW-Jaarprijs-2016.pdf" onclick="__gaTracker('send', 'event', 'download', 'http://nrw.nl/wp-content/uploads/2015/02/Gelderlandplein-Amsterdam-wint-NRW-Jaarprijs-2016.pdf');" target="_blank">http://nrw.nl/wp-content/uploads/2015/02/Gelderlandplein-Amsterdam-wint-NRW-Jaarprijs-2016.pdf</a></p>
+
+				
+								
+							</div><!-- .post-content -->
+		</div>
+		
+	</div>
+	
+	
+		
+	<div class="post-share">
+		<span class="text">Share.</span>
+		
+		<span class="share-links">
+
+			<a href="http://twitter.com/home?status=http%3A%2F%2Fvastgoedberichten.nl%2F2016%2F09%2F20%2Fgelderlandplein-amsterdam-wint-nrw-jaarprijs-2016%2F" class="fa fa-twitter" title="Tweet It">
+				<span class="visuallyhidden">Twitter</span></a>
+				
+			<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fvastgoedberichten.nl%2F2016%2F09%2F20%2Fgelderlandplein-amsterdam-wint-nrw-jaarprijs-2016%2F" class="fa fa-facebook" title="Share on Facebook">
+				<span class="visuallyhidden">Facebook</span></a>
+				
+			<a href="http://plus.google.com/share?url=http%3A%2F%2Fvastgoedberichten.nl%2F2016%2F09%2F20%2Fgelderlandplein-amsterdam-wint-nrw-jaarprijs-2016%2F" class="fa fa-google-plus" title="Share on Google+">
+				<span class="visuallyhidden">Google+</span></a>
+				
+			<a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fvastgoedberichten.nl%2F2016%2F09%2F20%2Fgelderlandplein-amsterdam-wint-nrw-jaarprijs-2016%2F&amp;media=http%3A%2F%2Fvastgoedberichten.nl%2Fwp-content%2Fuploads%2F2016%2F09%2FGelderlandplein-Amsterdam-wint-NRW-Jaarprijs-2016.png" class="fa fa-pinterest"
+				title="Share on Pinterest">
+				<span class="visuallyhidden">Pinterest</span></a>
+				
+			<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fvastgoedberichten.nl%2F2016%2F09%2F20%2Fgelderlandplein-amsterdam-wint-nrw-jaarprijs-2016%2F" class="fa fa-linkedin" title="Share on LinkedIn">
+				<span class="visuallyhidden">LinkedIn</span></a>
+				
+			<a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fvastgoedberichten.nl%2F2016%2F09%2F20%2Fgelderlandplein-amsterdam-wint-nrw-jaarprijs-2016%2F&amp;name=Gelderlandplein+Amsterdam+wint+NRW+Jaarprijs+2016" class="fa fa-tumblr"
+				title="Share on Tumblr">
+				<span class="visuallyhidden">Tumblr</span></a>
+				
+			<a href="mailto:?subject=Gelderlandplein%20Amsterdam%20wint%20NRW%20Jaarprijs%202016&amp;body=http%3A%2F%2Fvastgoedberichten.nl%2F2016%2F09%2F20%2Fgelderlandplein-amsterdam-wint-nrw-jaarprijs-2016%2F" class="fa fa-envelope-o"
+				title="Share via Email">
+				<span class="visuallyhidden">Email</span></a>
+			
+		</span>
+	</div>
+	
+			
+</article>
+
+
+
+<section class="navigate-posts">
+
+	<div class="previous"><span class="main-color title"><i class="fa fa-chevron-left"></i> Previous Article</span><span class="link"><a href="http://vastgoedberichten.nl/2016/09/20/fgh-bank-verkoopt-rnhb-hypotheekbank-aan-carval-investors-en-vesting-finance/" rel="prev">FGH Bank verkoopt RNHB Hypotheekbank aan Carval Investors en Vesting Finance</a></span>	</div>
+	
+	<div class="next">	</div>
+	
+</section>
+
+
+
+
+<section class="related-posts">
+	<h3 class="section-head">Related Posts</h3> 
+	<ul class="highlights-box three-col related-posts">
+	
+		
+		<li class="highlights column one-third">
+			
+			<article>
+					
+				<a href="http://vastgoedberichten.nl/2016/09/20/begroting-wonen-en-rijksdienst-stimulans-betaalbaar-aanbod-vrije-huursector/" title="Begroting Wonen en Rijksdienst: Stimulans betaalbaar aanbod vrije huursector" class="image-link">
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2016-09-20T18:21:48+00:00">september 20, 2016 </time>
+					
+															
+					<span class="comments"><i class="fa fa-comments-o"></i>
+						0</span>	
+					
+				</div>
+				
+				<h2><a href="http://vastgoedberichten.nl/2016/09/20/begroting-wonen-en-rijksdienst-stimulans-betaalbaar-aanbod-vrije-huursector/" title="Begroting Wonen en Rijksdienst: Stimulans betaalbaar aanbod vrije huursector">Begroting Wonen en Rijksdienst: Stimulans betaalbaar aanbod vrije huursector</a></h2>
+				
+			</article>
+		</li>
+		
+		
+		<li class="highlights column one-third">
+			
+			<article>
+					
+				<a href="http://vastgoedberichten.nl/2016/09/20/cbs-consumenten-besteden-opnieuw-meer-2/" title="CBS: Consumenten besteden opnieuw meer" class="image-link">
+					<img width="214" height="140" src="http://i0.wp.com/vastgoedberichten.nl/wp-content/uploads/2016/09/Binnenlandse-consumptie-door-huishoudens-volume-koopdaggecorrigeerd-16-09-19.jpeg?resize=214%2C140" class="image wp-post-image" alt="binnenlandse-consumptie-door-huishoudens-volume-koopdaggecorrigeerd-16-09-19" title="CBS: Consumenten besteden opnieuw meer" />
+											<span class="post-format-icon gallery"><i class="fa fa-picture-o"></i></span>
+									</a>
+				
+				<div class="meta">
+					<time datetime="2016-09-20T18:14:37+00:00">september 20, 2016 </time>
+					
+															
+					<span class="comments"><i class="fa fa-comments-o"></i>
+						0</span>	
+					
+				</div>
+				
+				<h2><a href="http://vastgoedberichten.nl/2016/09/20/cbs-consumenten-besteden-opnieuw-meer-2/" title="CBS: Consumenten besteden opnieuw meer">CBS: Consumenten besteden opnieuw meer</a></h2>
+				
+			</article>
+		</li>
+		
+		
+		<li class="highlights column one-third">
+			
+			<article>
+					
+				<a href="http://vastgoedberichten.nl/2016/09/20/core-belegger-bouwinvest-heeft-een-goed-eerste-half-jaar-achter-de-rug/" title="Core belegger Bouwinvest heeft een goed eerste half jaar achter de rug" class="image-link">
+					
+									</a>
+				
+				<div class="meta">
+					<time datetime="2016-09-20T06:22:32+00:00">september 20, 2016 </time>
+					
+															
+					<span class="comments"><i class="fa fa-comments-o"></i>
+						0</span>	
+					
+				</div>
+				
+				<h2><a href="http://vastgoedberichten.nl/2016/09/20/core-belegger-bouwinvest-heeft-een-goed-eerste-half-jaar-achter-de-rug/" title="Core belegger Bouwinvest heeft een goed eerste half jaar achter de rug">Core belegger Bouwinvest heeft een goed eerste half jaar achter de rug</a></h2>
+				
+			</article>
+		</li>
+		
+		</ul>
+</section>
+
+
+				<div class="comments">
+				
+	
+	<div id="comments">
+
+			<p class="nocomments">Comments are closed.</p>
+		
+	
+	
+</div><!-- #comments -->
+				</div>
+	
+			
+		</div>
+		
+		
+			
+		
+		<aside class="col-4 sidebar">
+			<ul>
+			
+			<li id="image-6" class="widget widget_image"><h3 class="widgettitle">Advertenties</h3><div class="jetpack-image-container"><a target="_blank" href="http://localjoe.nl/"><img src="http://vastgoedberichten.nl/wp-content/uploads/2016/01/local-joe-logo-tijdelijk-e1452510921756.jpg" alt="Local Joe" title="Local Joe" class="aligncenter" width="300" height="141" /></a></div>
+</li>
+<li id="image-8" class="widget widget_image"><div class="jetpack-image-container"><a target="_blank" href="http://alexoffices.nl/"><img src="http://vastgoedberichten.nl/wp-content/uploads/2016/04/Vastgoedberichten-01-e1459890872104.jpg" alt="Alex Offices" title="Alex Offices" class="aligncenter" width="300" height="116" /></a></div>
+</li>
+<li id="image-7" class="widget widget_image"><div class="jetpack-image-container"><a target="_blank" href="http://popupled.nl/"><img src="http://vastgoedberichten.nl/wp-content/uploads/2016/03/advertentie_vastgoedberichten-2.png" alt="Popupled" title="Popupled" class="aligncenter" /></a></div>
+</li>
+<li id="image-4" class="widget widget_image"><div class="jetpack-image-container"><a target="_blank" href="http://www.creatingretailparks.nl/"><img src="http://vastgoedberichten.nl/wp-content/uploads/2015/04/CRP-logo-wit.jpg" title="Creating Retail Parks" class="aligncenter" width="198" height="149" /></a></div>
+</li>
+<li id="image-9" class="widget widget_image"><div class="jetpack-image-container"><a target="_blank" href="http://oakmanagement.nl/"><img src="http://vastgoedberichten.nl/wp-content/uploads/2016/06/Logo-Oak-Management-e1466591612752.jpg" alt="Oak Management" title="Oak Management" class="aligncenter" width="300" height="206" /></a></div>
+</li>
+<li id="top-posts-2" class="widget widget_top-posts"><h3 class="widgettitle">Populaire berichten &amp; pagina&#8217;s </h3><ul>				<li>
+										<a href="http://vastgoedberichten.nl/2016/09/19/eerste-paal-voor-amstelcampus-leeuwenhoek/" class="bump-view" data-bump-view="tp">
+						Eerste paal voor Amstelcampus Leeuwenhoek					</a>
+									</li>
+							<li>
+										<a href="http://vastgoedberichten.nl/2016/09/20/roc-top-huurt-4-065-m%c2%b2-in-gebouw-lumen-in-amsterdam/" class="bump-view" data-bump-view="tp">
+						ROC TOP huurt 4.065 m² in gebouw Lumen in Amsterdam					</a>
+									</li>
+							<li>
+										<a href="http://vastgoedberichten.nl/2016/09/20/begroting-wonen-en-rijksdienst-stimulans-betaalbaar-aanbod-vrije-huursector/" class="bump-view" data-bump-view="tp">
+						Begroting Wonen en Rijksdienst: Stimulans betaalbaar aanbod vrije huursector					</a>
+									</li>
+							<li>
+										<a href="http://vastgoedberichten.nl/2016/09/17/kantoorgebouw-europoint-i-in-rotterdam-verkocht/" class="bump-view" data-bump-view="tp">
+						Kantoorgebouw Europoint I in Rotterdam verkocht					</a>
+									</li>
+							<li>
+										<a href="http://vastgoedberichten.nl/2016/09/20/payroll-select-vestigt-hoofdkantoor-in-deventer/" class="bump-view" data-bump-view="tp">
+						Payroll Select vestigt hoofdkantoor in Deventer					</a>
+									</li>
+			</ul></li>
+<li id="image-5" class="widget widget_image"><h3 class="widgettitle">Advertenties</h3><div class="jetpack-image-container"><a target="_blank" href="http://www.iamluigi.nl/"><img src="http://vastgoedberichten.nl/wp-content/uploads/2016/02/I-am-Luigi-1.png" title="I am Luigi" class="aligncenter" width="300" height="250" /></a></div>
+</li>
+
+		<li id="bunyad_ads_widget-7" class="widget bunyad-ad">		
+					
+			<div class="ads-widget">
+			
+				<a href="http://partnerprogramma.bol.com/click/click?p=1&t=url&s=30347&url=https%3A//www.bol.com/nl/m/voordeel/schoolspullen-scholieren/index.html&f=BAN&name=Cool to school 2016" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/cts_160509_300x250.jpg" width="300" height="250" alt="Cool to school 2016"  /></a><img src="http://partnerprogramma.bol.com/click/impression?p=1&s=30347&t=url&f=BAN&name=Cool to school 2016" width="1" height="1" />			
+			</div>
+		
+		</li>
+		
+		
+		<li id="bunyad_ads_widget-3" class="widget bunyad-ad">		
+					
+			<div class="ads-widget">
+			
+				<!-- BEGIN van de zanox-afilliate HTML-code -->
+<!-- ( De HTML-code mag niet gewijzigd worden.) -->
+<a href="http://ad.zanox.com/ppc/?36228885C2013473520T"><img src="http://ad.zanox.com/ppv/?36228885C2013473520" align="bottom" width="300" height="250" border="0" hspace="1" alt="HP 300x250"></a>
+<!-- EINDE van de zanox-affiliate HTML-code -->
+			
+			</div>
+		
+		</li>
+		
+			
+			</ul>
+		</aside>
+		
+			
+	</div> <!-- .row -->
+</div> <!-- .main -->
+
+
+		
+	<footer class="main-footer">
+	
+			<div class="wrap">
+		
+				
+		</div>
+	
+		
+	
+			<div class="lower-foot">
+			<div class="wrap">
+		
+						
+			<div class="widgets">
+							<div class="textwidget">Copyright © 2014-2016 VastgoedBerichten.nl.</div>
+		<div class="menu-lower-footer-container"><ul id="menu-lower-footer" class="menu"><li id="menu-item-3461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3461"><a href="http://vastgoedberichten.nl/over-vastgoedberichten/">Over VastgoedBerichten</a></li>
+<li id="menu-item-5705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5705"><a href="http://vastgoedberichten.nl/adverteren-2/">Adverteren</a></li>
+<li id="menu-item-5706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5706"><a href="http://vastgoedberichten.nl/nieuwsbrief/">Nieuwsbrief</a></li>
+<li id="menu-item-1443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1443"><a href="http://vastgoedberichten.nl/algemene-voorwaarden/">Algemene Voorwaarden</a></li>
+<li id="menu-item-1442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1442"><a href="http://vastgoedberichten.nl/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-5707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5707"><a href="http://vastgoedberichten.nl/privacy/">Privacy</a></li>
+<li id="menu-item-1441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1441"><a href="http://vastgoedberichten.nl/contact/">Contact</a></li>
+</ul></div>			</div>
+			
+					
+			</div>
+		</div>		
+		
+	</footer>
+	
+</div> <!-- .main-wrap -->
+
+	<div style="display:none">
+	</div>
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript' src='http://vastgoedberichten.nl/wp-includes/js/comment-reply.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='//vastgoedberichten.nl/wp-content/plugins/connections/vendor/picturefill/picturefill.min.js?ver=2.3.1'></script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/vastgoedberichten.nl\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Graag verifi\u00ebren dat je geen robot bent."}},"sending":"Verzenden ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201638'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ctcc_vars = {"expiry":"30","method":"1","version":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/plugins/uk-cookie-consent/assets/js/uk-cookie-consent-js.js?ver=2.0.0'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Bunyad = {"ajaxurl":"http:\/\/vastgoedberichten.nl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/themes/smart-mag/js/bunyad-theme.js?ver=2.3.0'></script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/themes/smart-mag/js/jquery.flexslider-min.js?ver=2.3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var boxzilla_options = {"testMode":"","boxes":[{"id":10019,"icon":"&times;","content":"<p>Inschrijven voor de nieuwsbrief?<\/p>\n<script type=\"text\/javascript\">(function() {\n\tif (!window.mc4wp) {\n\t\twindow.mc4wp = {\n\t\t\tlisteners: [],\n\t\t\tforms    : {\n\t\t\t\ton: function (event, callback) {\n\t\t\t\t\twindow.mc4wp.listeners.push({\n\t\t\t\t\t\tevent   : event,\n\t\t\t\t\t\tcallback: callback\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n})();\n<\/script><!-- MailChimp for WordPress v4.0.4 - https:\/\/wordpress.org\/plugins\/mailchimp-for-wp\/ --><form id=\"mc4wp-form-1\" class=\"mc4wp-form mc4wp-form-10016\" method=\"post\" data-id=\"10016\" data-name=\"VastgoedBerichten - Inschrijven Nieuwsbrief\" ><div class=\"mc4wp-form-fields\"><p>\r\n    <label>Voornaam<\/label>\r\n    <input type=\"text\" name=\"FNAME\" required>\r\n<\/p>\r\n<p>\r\n    <label>Achternaam<\/label>\r\n    <input type=\"text\" name=\"LNAME\" required>\r\n<\/p>\r\n\r\n<p>\r\n\t<label>Emailadres: <\/label>\r\n\t<input type=\"email\" name=\"EMAIL\" placeholder=\"Jouw emailadres\" required \/>\r\n<\/p>\r\n\r\n<p>\r\n\t<input type=\"submit\" value=\"Inschrijven\" \/>\r\n<\/p><div style=\"display: none;\"><input type=\"text\" name=\"_mc4wp_honeypot\" value=\"\" tabindex=\"-1\" autocomplete=\"off\" \/><\/div><input type=\"hidden\" name=\"_mc4wp_timestamp\" value=\"1474460634\" \/><input type=\"hidden\" name=\"_mc4wp_form_id\" value=\"10016\" \/><input type=\"hidden\" name=\"_mc4wp_form_element_id\" value=\"mc4wp-form-1\" \/><\/div><div class=\"mc4wp-response\"><\/div><\/form><!-- \/ MailChimp for WordPress Plugin -->\n","css":{"background_color":"#6997bf","color":"#000000","width":340,"border_color":"#ffffff","border_width":4,"border_style":"solid","position":"center"},"trigger":{"method":"time_on_page","value":"1"},"animation":"fade","cookie":{"triggered":0,"dismissed":24},"rehide":false,"position":"center","minimumScreenWidth":0,"closable":true}]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/plugins/boxzilla/assets/js/script.min.js?ver=3.1.5'></script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.0.4'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://vastgoedberichten.nl/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.4'></script>
+<![endif]-->
+<script type='text/javascript' src='http://stats.wp.com/e-201638.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.3.1',blog:'74518222',post:'11776',tz:'0',srv:'vastgoedberichten.nl'} ]);
+	_stq.push([ 'clickTrackerInit', '74518222', '11776' ]);
+</script>
+			
+			<script type="text/javascript">
+				jQuery(document).ready(function($){
+										if(!catapultReadCookie("catAccCookies")){ // If the cookie has not been set then show the bar
+						$("html").addClass("has-cookie-bar");
+						$("html").addClass("cookie-bar-top-bar");
+						$("html").addClass("cookie-bar-bar");
+													// Wait for the animation on the html to end before recalculating the required top margin
+							$("html").on('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function(e) {
+								// code to execute after transition ends
+								var barHeight = $('#catapult-cookie-bar').outerHeight();
+								$("html").css("margin-top",barHeight);
+								$("body.admin-bar").css("margin-top",barHeight-32); // Push the body down if the admin bar is active
+							});
+											}
+														});
+			</script>
+			
+		<div id="catapult-cookie-bar" class=" float-accept"><div class="ctcc-inner "><span class="ctcc-left-side">Vastgoedberichten gebruikt cookies om u optimaal van dienst te kunnen zijn. Wij adviseren u om "Ik ga akkoord" te kiezen. Let op: als u doorklikt in de website geeft u toestemming om cookies te zetten. <a tabindex=0 target="_blank" href="http://vastgoedberichten.nl/#">Meer info</a></span><span class="ctcc-right-side"><button id="catapultCookie" tabindex=0 onclick="catapultAcceptCookies();">Ik ga akkoord</button></span></div><!-- custom wrapper class --></div><!-- #catapult-cookie-bar -->
+</body>
+</html>
